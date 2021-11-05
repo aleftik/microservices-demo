@@ -1,4 +1,6 @@
 <p align="center">
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/37077ea0-a75b-4a69-af90-b3e062e26b26.svg)](https://app.soluble.cloud/repos/details/github.com/aleftik/microservices-demo)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/4a6fea09-cadd-4a83-bb1f-5dccfd25e1a7.svg)](https://app.soluble.cloud/repos/details/github.com/aleftik/microservices-demo)  
 <img src="src/frontend/static/icons/Hipster_HeroLogoCyan.svg" width="300" alt="Online Boutique" />
 </p>
 
